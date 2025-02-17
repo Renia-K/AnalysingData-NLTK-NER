@@ -1,6 +1,4 @@
-## AnalysingData NLTK & NER
-
-## Natural Language Processing
+## Analysing Data: NLTK & NER
 
 This project involves a series of NLP tasks applied to a dataset of five texts, utilizing the NLTK and spaCy libraries in Python.
 
